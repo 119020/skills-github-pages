@@ -1,11 +1,14 @@
 ---
-title: Welcome to my blog
+title: Welcome to CUHKSZ Go Team
 ---
 
 # CUHKSZ Go Team
-## Introduction
-## Player Information
-## History Competition Information
-## Contact us
+## Our Team
 
-</footer>
+## Introduction of Go
+
+## Player Information
+
+## History Competition Information
+
+## Contact us
